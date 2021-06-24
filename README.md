@@ -1,2 +1,2 @@
-# albus
+# palette
 To put together knowledge
